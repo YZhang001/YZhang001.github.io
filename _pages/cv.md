@@ -11,13 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* **M.Sc. in Electrical Engineering and Information Technology, Technical University of Munich, 2020 - 2024**
+* Master's Thesis Advisor: Prof. Angela Schoellig
+* **B.Sc. in Opto-Electronics Information Science and Engineering, Beijing Institute of Technology, 2016 - 2020**
+
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+
+* **Software Engeneering and Model-based Design, [ITK Engineering](https://www.itk-engineering.de/), Jun. 2023 - Nov. 2023**
+  * Working Student
+* **[Chair of Automatic Control Engineering, Technical University of Munich](https://www.ce.cit.tum.de/en/lsr/home/), Oct. 2022 - Feb. 2023**
+  * Student Assistant
+<!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,9 +40,9 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

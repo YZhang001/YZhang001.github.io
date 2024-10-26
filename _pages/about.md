@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+Hello! I am a master's student in Electrical Engineering and Information Technology at the Technical University of Munich. Engaged in research at the intersection of safe control and robotics, I am currently seeking research opportunities in developing safe and reliable robotic systems for real-world applications. 
+I completed my master's thesis at the [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/) under the supervision of [Prof. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/), [Dr. SiQi Zhou](https://siqizhou.com/), [Lukas Brunke](https://www.lukasbrunke.com/) and [Ralf Römer](https://ralfroemer99.github.io/). 
+
+Prior to my master's thesis, I completed my research internship at the [Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/) at the same university. Before that, I worked as a student assistant at the [Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/) and as a working student at [ITK Engineering](https://www.itk-engineering.de/). 
+
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -46,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
