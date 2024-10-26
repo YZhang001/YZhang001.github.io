@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Hello! I am a master's student in Electrical Engineering and Information Technology at the Technical University of Munich. Engaged in research at the intersection of safe control and robotics, I am currently seeking research opportunities in developing safe and reliable robotic systems for real-world applications. 
-I completed my master's thesis at the [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/) under the supervision of [Prof. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/), [Dr. SiQi Zhou](https://siqizhou.com/), [Lukas Brunke](https://www.lukasbrunke.com/) and [Ralf Römer](https://ralfroemer99.github.io/). 
 
+I completed my master's thesis at the [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/) under the supervision of [Prof. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/), [Dr. SiQi Zhou](https://siqizhou.com/), [Lukas Brunke](https://www.lukasbrunke.com/) and [Ralf Römer](https://ralfroemer99.github.io/). 
 Prior to my master's thesis, I completed my research internship at the [Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/) at the same university. Before that, I worked as a student assistant at the [Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/) and as a working student at [ITK Engineering](https://www.itk-engineering.de/). 
 
 
