@@ -17,12 +17,12 @@ author_profile: true
 
 Workshop Papers
 ======
-L. Brunke, Y. Zhang, R. Römer, J. Naimer, S. Zhou, A. P. Schoellig. “Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguard”, in NeurIPS 2024 Workshop on Open-World Agents, NeurIPS 2024 Workshop on Safe & Trustworthy Agents, CoRL Workshop on Language and Robot Learning: Language as an Interface and CoRL Workshop on Safe and Robust Robot Learning for Operation in the Real World, 2024. [[Paper](https://openreview.net/forum?id=52HIzc8bPe)]
+L. Brunke, Y. Zhang, R. Römer, J. Naimer, S. Zhou, A. P. Schoellig. “Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguard”, in _NeurIPS 2024 Workshop on Open-World Agents_, _NeurIPS 2024 Workshop on Safe & Trustworthy Agents_, _CoRL Workshop on Language and Robot Learning: Language as an Interface_ and _CoRL Workshop on Safe and Robust Robot Learning for Operation in the Real World_, 2024. [[Paper](https://openreview.net/forum?id=52HIzc8bPe)]
 
 
 Preprints
 ======
-L. Brunke, Y. Zhang, R. Römer, J. Naimer, N. Staykov, S. Zhou, A. P. Schoellig. “Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguard”, arXiv preprint arXiv:2410.15185, 2024. [[Preprint](https://arxiv.org/abs/2410.15185)] [[Website](https://utiasdsl.github.io/semantic-manipulation/)]
+L. Brunke, Y. Zhang, R. Römer, J. Naimer, N. Staykov, S. Zhou, A. P. Schoellig. “Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards”, _arXiv preprint_ arXiv:2410.15185, 2024. [[Preprint](https://arxiv.org/abs/2410.15185)] [[Website](https://utiasdsl.github.io/semantic-manipulation/)]
 
 
 Theses
