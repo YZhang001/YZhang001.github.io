@@ -24,8 +24,10 @@ author:
   avatar           : "Yanni_avatar.png"
   name             : "Yanni Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. student at the Technical University of Munich"
-  location         : "Munich, Germany"
+  # bio              : "M.Sc. student at the Technical University of Munich"
+  # location         : "Munich, Germany"
+  bio              : "PhD student at the Technical University of Darmstadt"
+  location         : "Darmstadt, Germany"
   # employer         : "Red Brick University"
   uri              : # URL
   email            : "yanni.zhang02@gmail.com" 

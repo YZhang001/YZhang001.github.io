@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-
+* **PhD Student in Human-Computer Interaction, Technical University of Darmstadt, since 2025**
+  * PhD Supervisor: Prof. Jan Gugenheimer
 * **M.Sc. in Electrical Engineering and Information Technology, Technical University of Munich, 2020 - 2024**
   * Master's Thesis Advisor: Prof. Angela Schoellig
 * **B.Sc. in Opto-Electronics Information Science and Engineering, Beijing Institute of Technology, 2016 - 2020**
@@ -22,11 +23,13 @@ Education
 
 Work experience
 ======
+* **Research Assistant, [HCI Lab](https://www.informatik.tu-darmstadt.de/hci/hci_tuda/hcilab_1/hcipage.en.jsp), [Technical University Darmstadt](https://www.tu-darmstadt.de/), since 2025**
+  <!-- * Research Assistant -->
 
-* **Software Engeneering and Model-based Design, [ITK Engineering](https://www.itk-engineering.de/), Jun. 2023 - Nov. 2023**
-  * Working Student
-* **[Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/), Technical University of Munich, Oct. 2022 - Feb. 2023**
-  * Student Assistant
+* **Working Student, Software Engeneering and Model-based Design, [ITK Engineering](https://www.itk-engineering.de/), Jun. 2023 - Nov. 2023**
+  <!-- * Working Student -->
+* **Student Assistant, [Chair of Automatic Control Engineering](https://www.ce.cit.tum.de/en/lsr/home/), Technical University of Munich, Oct. 2022 - Feb. 2023**
+  <!-- * Student Assistant -->
 
 
 <!-- * Spring 2024: Academic Pages Collaborator
